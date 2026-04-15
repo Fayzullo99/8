@@ -1,0 +1,16 @@
+{
+  "name": "supply-chain-blockchain-logistics",
+  "version": "1.0.0",
+  "description": "Blockchain-based logistics tracking MVP with real-time location updates, ownership transfer, authenticity verification, and audit trail.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "blockchain",
+    "logistics",
+    "supply-chain",
+    "tracking"
+  ],
+  "license": "MIT"
+}
